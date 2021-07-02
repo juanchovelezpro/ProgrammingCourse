@@ -1,4 +1,4 @@
-# Curso de Programación from Zero to Pro
+# Curso de Programación desde cero
 ### Profesor: Juan Camilo Vélez Olaya
 ### Estudiante de Ingeniería Telemática Semestre X
 ### Universidad Icesi
@@ -10,11 +10,21 @@
 ## - Duración clase: 1 hora y 30 minutos + 30 minutos para resolver dudas
 #
 # Metodología
-## Introducción del tema -> Explicación Teórica -> Explicación Práctica -> Resolver Dudas -> Kahoot -> Ejercicio -> Tarea y Reto -> Dudas extra
+### Introducción del tema -> Explicación Teórica -> Explicación Práctica -> Resolver Dudas -> Kahoot! -> Ejercicio -> Tarea y Reto -> Dudas extra
 #
 
-# Libro guía
-### Java How to program 10th Edition - Paul Deitel
+# Libros guía
+- Java How to program 10th Edition - Paul Deitel
+- Introduction to Algorithms Third Edition - Thomas Cormen
+- Fundamentos de programación - Jorge Villalobos
+- Head First Design Patterns - Eric Freeman & Elizabeth Freeman
+#
+
+# Software
+- Java 1.8 JDK
+- Eclipse, IntelliJ IDEA y Android Studio
+- Git - (Y una cuenta en GitHub)
+- Discord
 #
 
 # Plan del curso
