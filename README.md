@@ -22,7 +22,7 @@
 
 # Software
 - Java 1.8 JDK
-- Eclipse, IntelliJ IDEA y Android Studio
+- IntelliJ IDEA y Android Studio
 - Git - (Y una cuenta en GitHub)
 - Discord
 #
