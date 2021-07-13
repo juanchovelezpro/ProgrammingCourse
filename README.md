@@ -2,7 +2,7 @@
 ### Profesor: Juan Camilo Vélez Olaya
 ### Estudiante de Ingeniería Telemática Semestre X
 ### Universidad Icesi
-### Prácticante en Encora Inc. como Java Developer
+### Prácticante en Encora Inc. como Software Engineer Intern
 #
 # Detalles curso
 ## - Duración curso: 144 clases 
